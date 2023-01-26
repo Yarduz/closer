@@ -1,0 +1,9 @@
+.startB {
+    border-radius: 8px;
+    color: black;
+    background-color: blueviolet;
+    border: 8px yellow;
+    border-style: solid;
+    padding: 8px;
+    margin: 24px;
+}
