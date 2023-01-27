@@ -1,0 +1,1 @@
+export type Category = "history" | "geography" | "art" | "sports"

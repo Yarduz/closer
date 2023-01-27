@@ -7,7 +7,6 @@ import { OpenningPageComponent } from './openning-page/openning-page.component';
 const routes: Routes = [
   {
     path: '', redirectTo: '/openning', pathMatch: 'full'
-
   },
   {
     path: 'openning',
